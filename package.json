@@ -5,11 +5,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "commit": "gitmoji -c"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.5.9"
+    "@types/node": "^20.5.9",
+    "gitmoji-cli": "^8.5.0"
   }
 }
